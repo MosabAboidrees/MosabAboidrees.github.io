@@ -25,4 +25,4 @@ To get started with the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MosabAboidrees/Portfolio.git
-   cd portfolio-admin-panel
+   cd Portfolio
