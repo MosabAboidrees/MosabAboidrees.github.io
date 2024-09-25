@@ -15,7 +15,7 @@ TechFolio is a simple and responsive web development portfolio built using **HTM
 
 ## **Live Demo**
 
-You can check the live demo of TechFolio [here](#).
+You can check the live demo of TechFolio [here](https://techfolio.mosab.tech/).
 
 ## **Table of Contents**
 
@@ -31,7 +31,7 @@ You can check the live demo of TechFolio [here](#).
 To get started with TechFolio, simply download or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/TechFolio.git
+git clone https://mosababoidrees.github.io.git
 ```
 
 Once cloned, open the `index.html` file in your web browser to view the portfolio.
@@ -57,29 +57,13 @@ Here’s an overview of the TechFolio file structure:
 ```
 TechFolio/
 │
-├── css/
-│   └── style.css         # Main stylesheet for the portfolio
-│
-├── images/               # Image assets for portfolio and testimonials
-│   └── ...               # Project images, testimonial images
-│
-├── index.html            # Main portfolio page
+├── components/
+│   └── ...         # Main stylesheet for the portfolio
+├── public/
+│   └── ...         # images for the portfolio
+├── index.html            # Main portfolio pag
 └── README.md             # Documentation
 ```
-
-## **Screenshots**
-
-### Home Page
-
-![Home Page](./images/home.png)
-
-### About Page
-
-![About Page](./images/about.png)
-
-### Contact Page
-
-![Contact Page](./images/contact.png)
 
 ## **Contributing**
 
