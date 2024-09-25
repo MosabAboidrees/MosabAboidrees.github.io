@@ -78,3 +78,8 @@ If you'd like to contribute to TechFolio:
 ## **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## **Authors**
+
+- **Mosab Aboidrees Altairaf Yousif** - *Lead Developer*
+- **Mohamedalfateh T. M. Saeed** - *UI/UX Designer*
